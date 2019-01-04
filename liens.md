@@ -20,3 +20,10 @@ https://github.com/74med
 
 ## Eric : 
 https://github.com/EricJahan
+
+## Pablo : 
+https://github.com/pablo-brusset
+
+## Justine : 
+https://github.com/justinelobert
+
