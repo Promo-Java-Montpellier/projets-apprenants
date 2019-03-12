@@ -1,6 +1,3 @@
-Equipe : 
-- Eric
-- Nicolas
-- Ruben
+# Nesti
 
-TRavail rendu :
+## 1 - Réalisation d'un site web
